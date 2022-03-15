@@ -1,0 +1,5 @@
+FIX BROKEN SYNTAX
+cd~/home/scott
+Ls/home
+mv~/log.tar.gz home scott
+chown~/log.tarz
