@@ -1,0 +1,8 @@
+cd~/home/scott
+Ls/home
+mv~/log.tar.gz home scott
+chown~/log.tarz
+ SOLUTIONS
+ a.cd/home/scott
+ b.Is home
+ c.chown/644~/log.targz
