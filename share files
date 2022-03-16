@@ -1,0 +1,7 @@
+create a new file we use ->   $ vi mynewfile -> for saving this file we use :wq
+Anyone uses the system can read and write we use  -> stat mynewfile ->
+this ensures that users for r-w groups fro r-w and fro everone else r-- read only
+In order to allow any user for read and write this file need to change permissions 
+we use -> $ chmod+a+rw mynewfile ->$ stat mynewfile->now all users can read and write this file
+Create an archive file using this file
+we use ->$ tar -czf my newfile .tgz mynewfile-> ls -lh mynewfile .tgz ->we get archive file 
